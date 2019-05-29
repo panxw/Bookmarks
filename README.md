@@ -22,3 +22,9 @@ Courses - https://mooc.study.163.com/smartSpec/detail/1001319001.htm
 刘建平Pinard - https://www.cnblogs.com/pinard/category/894690.html
 
 Keras 中文档 - https://keras-cn.readthedocs.io
+
+Deep-Learning-21-Examples - https://github.com/hzy46/Deep-Learning-21-Examples/tree/master/chapter_1
+
+deep-learning-with-python-notebooks - https://github.com/fchollet/deep-learning-with-python-notebooks
+
+
